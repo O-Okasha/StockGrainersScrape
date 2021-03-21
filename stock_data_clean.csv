@@ -1,0 +1,101 @@
+short_name,name,sector,last,change_per,change_price,vol,mrkt_cap,recommendation
+SPCB,Supercom Ltd New,Electronic Technology,2.24,54.48275862,0.79,145696313,42086912.00000001,buy
+CLVS,Clovis Oncology Inc,Health Technology,7.86,47.7443609,2.54,331757039,821605800.0,buy
+HOFV,Hall Of Fame Resort & Entmt Company,Consumer Services,4.0,46.52014652,1.27,201578170,333138400.0,buy
+FHTX,Foghorn Therapeutics Inc,Health Technology,16.12,36.61016949,4.32,475044,593485204.0,buy
+SNES,Senestech Inc,Health Technology,2.27,35.11904762,0.59,76166085,19223199.9,buy
+MRKR,Marker Therapeutics Inc,Consumer Services,2.42,34.44444444,0.62,64414271,191913502.0,buy
+STON,Stonemor Inc,Consumer Services,2.72,32.03883495,0.66,739113,320609120.0,strong_buy
+FLUX,Flux Power Holdings Inc,Consumer Services,15.35,31.53384747,3.68,1022423,195003330.0,strong_buy
+AE,Adams Resources & Energy Inc,Distribution Services,37.54,27.81750085,8.17,75266,159583290.79999998,strong_buy
+ESEA,Euroseas Ltd,Transportation,13.85,27.76752768,3.01,312839,93948012.5,buy
+ZKIN,Zk International Group Co Ltd,Producer Manufacturing,11.2,27.70809578,2.43,86657699,223857760.0,strong_buy
+AAME,Atlantic American Corp,Finance,5.7,25.55066079,1.16,19828244,116361510.0,buy
+SLGG,Super League Gaming Inc,Consumer Durables,10.14,24.41717791,1.99,28246799,219106134.0,buy
+FORA,Forian Inc,Technology Services,15.35,22.99679487,2.87,117263,,neutral
+VUZI,Vuzix Corp,Electronic Technology,28.81,20.84731544,4.97,19385733,1667724470.0,strong_buy
+CTHR,Charles & Colvard,Consumer Durables,3.11,19.15708812,0.5,1296623,90820708.0,strong_buy
+AEYE,Audioeye Inc,Technology Services,32.83,18.09352518,5.03,560696,351468131.0,buy
+GEVO,Gevo Inc,Process Industries,10.01,18.04245283,1.53,42420250,1983701720.0,buy
+ALEC,Alector Inc,Health Technology,21.02,17.16833891,3.08,2876916,1672864088.0,strong_buy
+LAZR,Luminar Technologies Inc,Producer Manufacturing,30.66,16.57794677,4.36,25988503,1226400000.0,buy
+HPR,Highpoint Resources Corporation,Energy Minerals,5.5,16.03375527,0.76,467372,23677940.0,sell
+AESE,Allied Esports Entertainment Inc,Commercial Services,3.71,15.9375,0.51,21550289,145207545.0,strong_buy
+IGC,India Globalization Capital Inc,Health Technology,2.05,15.81920904,0.28,7832500,93000915.0,buy
+KOPN,Kopin Corp,Electronic Technology,11.14,15.56016598,1.5,9377311,1016913786.0,buy
+MDXG,Mimedx Group Inc,Health Technology,10.15,15.20998865,1.34,1598249,1129299150.0,buy
+AZYO,Aziyo Biologics Inc,Health Technology,16.25,15.08498584,2.13,33371,166174807.5,strong_buy
+GLMD,Galmed Pharmaceuticals Ltd,Health Technology,3.92,14.61988304,0.5,689198,92213296.0,buy
+SM,Sm Energy Company,Energy Minerals,18.36,14.60674157,2.34,13155164,2106663120.0,buy
+CPE,Callon Petroleum Co,Energy Minerals,37.58,14.57317073,4.78,10175527,1734456046.0,buy
+TOUR,Tuniu Corp Ads Ea Repr 3 Ord Shs Cl A,Consumer Services,4.92,14.41860465,0.62,3828900,576791000.0,strong_buy
+INTZ,Intrusion Inc,Electronic Technology,26.84,14.35875586,3.37,554117,470741392.0,strong_buy
+CBD,Cia Brasileira Distr(Pao De Acucar) Spon Adr Each Repr 1 Com Stk,Retail Trade,5.08,13.90134529,0.62,3222138,1362010000.0,strong_buy
+XFOR,X4 Pharmaceuticals Inc,Health Technology,9.9,13.79310345,1.2,423546,161237340.0,strong_buy
+TAOP,Taoping Inc,Technology Services,14.06,13.75404531,1.7,1191055,134048180.6,strong_buy
+MP,Mp Materials Corp,Non-Energy Minerals,45.99,13.55555556,5.49,11550020,7567470540.0,buy
+MOGO,Mogo Inc,Finance,11.47,13.4520277,1.36,10482114,616675374.0,strong_buy
+YVR,Liquid Media Group Ltd,Technology Services,3.3,13.40206186,0.39,26608559,35889480.0,buy
+NM,Navios Maritime Holdings Inc,Transportation,12.53,13.39366516,1.48,945595,198997701.0,buy
+PHCF,Puhui Wealth Investment Mngt Co Ltd,Finance,5.11,13.303769400000002,0.6,740604,58803836.0,buy
+NM/PH,Navios Maritime Holdings Inc Spon Adr Repr 1/100Th Perp Prf Ser'H',Transportation,17.0,13.25782811,1.99,10000,198998000.0,buy
+IMTE,Integrated Media Technology Ltd,Electronic Technology,7.37,13.21044547,0.86,3772177,45738072.6,buy
+SRAC,Stable Road Acquisition Corp,Finance,15.08,13.04347826,1.74,1233502,333381100.0,sell
+MICT,Mict Inc,Electronic Technology,2.52,13.004484300000001,0.29,9256401,287577360.0,buy
+DUOT,Duos Technologies Group Inc,Technology Services,8.07,12.70949721,0.91,82458,28519541.4,strong_buy
+SDH,Global Internet Of People Inc,Technology Services,4.53,12.68656716,0.51,410951,111111840.0,buy
+LODE,Comstock Mining Inc,Non-Energy Minerals,5.52,12.65306122,0.62,5467867,234354360.0,buy
+NM/PG,Navios Maritime Holdings Inc Spn Ads Rep 1/100 Prd Ser G,Transportation,17.5,12.54019293,1.95,3139,198998000.0,buy
+WAFU,Wah Fu Education Group Limited,Commercial Services,5.94,12.5,0.66,815324,26023318.20000001,strong_buy
+OCG,Oriental Culture Hldg Ltd,Retail Trade,11.43,12.5,1.27,23657493,231514650.0,buy
+WNW,Wunong Net Technology Co Ltd,Retail Trade,13.4,12.32187762,1.47,3938371,335000000.0,buy
+DYAI,Dyadic International Inc,Health Technology,5.33,12.21052632,0.58,337498,146480126.0,buy
+VCEL,Vericel Corp,Health Technology,59.48,12.07838704,6.41,11224449,2733403400.0,strong_buy
+ALTG,Alta Equipment Group Inc,Distribution Services,13.12,12.04099061,1.41,523148,393842720.0,strong_buy
+MTLS,Materialise Nv Spon Ads Ea Repstg 1 Ord,Technology Services,42.79,11.92780539,4.56,1613227,2276180000.0,sell
+REKR,Rekor Systems Inc,Commercial Services,21.53,11.84415584,2.28,2249245,878514426.0,strong_buy
+MCF,Contango Oil & Gas Co,Energy Minerals,4.64,11.80722892,0.49,2341172,924042079.9999998,buy
+DLPN,Dolphin Entertainment Inc,Consumer Services,5.69,11.78781925,0.6,264244,37328334.6,strong_buy
+AACG,Ata Creativity Global Spon Ads Each Rep 2 Ord Shs,Commercial Services,5.29,11.60337553,0.55,1743447,167896000.0,buy
+SGMO,Sangamo Therapeutics Inc,Health Technology,13.23,11.55143339,1.37,4287688,1895210730.0,buy
+CRDF,Cardiff Oncology Inc,Health Services,11.49,11.337209300000001,1.17,5181281,425728629.0,buy
+CETX,Cemtrex Inc,Electronic Technology,2.08,11.22994652,0.21,7682498,37373856.0,buy
+SYBX,Synlogic Inc,Health Technology,4.47,11.19402985,0.45,348448,155706192.0,buy
+NVFY,Nova Lifestyle Inc,Consumer Durables,3.78,11.17647059,0.38,606638,21003759.0,buy
+WBAI,500.Com Ltd Spons Adr Rep 10 Shs Cl 'A',Technology Services,24.9,11.16071429,2.5,926906,1071020000.0,buy
+TELL,Tellurian Inc,Energy Minerals,2.7,11.11111111,0.27,50010230,1043784900.0000002,sell
+EOSE,Eos Energy Enterprises Inc,Finance,21.91,10.93670886,2.16,2793481,1134966483.0,buy
+CDEV,Centennial Resource Development Inc,Energy Minerals,4.52,10.78431373,0.44,23161297,1261645000.0,buy
+RAAS,Cloopen Group Hldg Ltd Each Ads Rep 2 Cl A Ord Shs,Communications,22.74,10.76473453,2.21,2171277,3411460000.0,buy
+LEGH,Legacy Housing Corporation,Consumer Durables,18.09,10.64220183,1.74,154703,437825034.0,buy
+URGN,Urogen Pharma Ltd,Health Technology,19.97,10.63711911,1.92,813387,444787816.0,sell
+HOOK,Hookipa Pharma Inc,Health Technology,14.7,10.60948081,1.41,1081586,437903180.4,buy
+NAPA,The Duckhorn Portfolio Inc,Distribution Services,19.0,10.59371362,1.82,2489440,2185893000.0,buy
+CKX,Ckx Lands Inc,Miscellaneous,12.96,10.58020478,1.24,4266,25168320.0,strong_buy
+STEP,Stepstone Group Inc,Finance,33.82,10.55900621,3.23,5257271,3206688314.42,buy
+AEVA,Aeva Technologies Inc,Finance,14.57,10.46247157,1.38,1938851,3062089480.0,buy
+SGC,Superior Group Of Companies Inc,Consumer Non-Durables,28.2,10.37181996,2.65,270970,438321060.0,strong_buy
+ELYS,Elys Game Technology Corp,Consumer Services,6.29,10.35087719,0.59,1273025,105043629.0,strong_buy
+HOME,At Home Group Inc,Retail Trade,33.08,10.30343448,3.09,3338120,2143815560.0,buy
+BOXL,Boxlight Corporation,Commercial Services,2.82,10.15625,0.26,4295726,146524944.0,strong_buy
+OCDX,Ortho Clinical Diagnostcs Hldgs Plc,Health Technology,18.63,10.10638298,1.71,16835462,4373262090.0,strong_buy
+SENS,Senseonics Holdings Inc,Electronic Technology,3.28,10.06711409,0.3,44596704,1239456240.0,buy
+MLPO,Credit Suisse Nassau S&P Mlp Index Etn 04/12/34,Miscellaneous,9.6399,10.04452055,0.8799,146,,buy
+LC,Lending Club Corp,Finance,21.72,10.03039514,1.98,5699481,2032844304.0,buy
+RESN,Resonant Inc,Electronic Technology,4.84,10.0,0.44,2107910,290978380.0,sell
+ZYNE,Zynerba Pharmaceuticals Inc,Health Technology,5.31,9.9378882,0.48,2135313,219045465.0,buy
+POWW,Ammo Inc,Electronic Technology,6.31,9.93031359,0.57,5838436,438546893.0,sell
+WPG,Washington Prime Group Inc,Finance,3.1,9.92907801,0.28,2330801,64560900.00000001,sell
+ZYME,Zymeworks Inc,Health Technology,35.0,9.89010989,3.15,424861,1614756500.0,sell
+PRPH,Prophase Labs Inc,Health Technology,8.12,9.878213800000001,0.73,333816,123052916.0,buy
+FARM,Farmer Bros Co,Consumer Non-Durables,11.02,9.87038883,0.99,1480903,195838624.0,strong_buy
+SJT,San Juan Basin Royality Trust,Miscellaneous,4.23,9.87012987,0.38,253598,197156000.0,buy
+WHLR,Wheeler Real Estate Invt Tr Inc,Finance,3.35,9.83606557,0.3,540144,32517600.0,buy
+PROG,Progenity Inc,Health Services,4.82,9.79498861,0.43,1721400,290413676.0,sell
+SI,Silvergate Capital Corporation,Finance,160.36,9.70036941,14.18,3634568,3005162436.0000005,buy
+REI,Ring Energy Inc,Energy Minerals,2.83,9.68992248,0.25,5009566,231122138.0,buy
+PD,Pagerduty Inc,Technology Services,41.18,9.63791267,3.62,2420446,3373992704.0,sell
+IGMS,Igm Biosciences Inc,Health Technology,91.1,9.58739324,7.97,495467,2908076435.5,buy
+NOG,Northern Oil & Gas Inc (Nev),Energy Minerals,13.76,9.55414013,1.2,5018223,831395712.0,buy
+SUNW,Sunworks Inc,Producer Manufacturing,14.46,9.54545455,1.26,4434711,344658438.0,buy
+AMPY,Amplify Energy Corp,Energy Minerals,3.1,9.54063604,0.27,1202141,117623920.0,buy
