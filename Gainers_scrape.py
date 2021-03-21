@@ -32,3 +32,4 @@ cols = ['short_name', 'name', 'sector', 'last',
 df = pd.DataFrame(data_list, columns=cols)
 # Saving Data.
 df.to_csv('stock_data.csv', index=False)
+
